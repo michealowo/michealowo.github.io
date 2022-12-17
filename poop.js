@@ -4,9 +4,9 @@
   (factory(global['@bhmb/bot']));
 }(this, (function (bot) { 'use strict';
   const MessageBot = bot.MessageBot
-  MessageBot.registerExtension('mikeal/poop', function(ex, world) {
+  MessageBot.registerExtension('mikeal/sex', function(ex, world) {
     world.addCommand('sex', function(player, args) {
-      ex.bot.send('HOLY SHIT{{Name}}')
+      ex.bot.send('HOLY SHIT {{Name}}')
       ex.bot.send('OMG WHEN')
     })
 

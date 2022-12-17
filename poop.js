@@ -11,7 +11,7 @@
     })
 
     ex.remove = function() {
-      world.removeCommand('marco')
+      world.removeCommand('sex')
     }
   })
 })))
